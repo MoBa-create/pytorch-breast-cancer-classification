@@ -13,21 +13,6 @@ An end-to-end Deep Learning binary classification pipeline built with **PyTorch*
 - **Data Processing & Metrics:** Scikit-Learn, Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn
 
-## 🚀 How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/MoBa-create/pytorch-breast-cancer-classification.git](https://github.com/YOUR_USERNAME/pytorch-breast-cancer-classification.git)
-   cd pytorch-breast-cancer-classification
-
-1 . Install dependencies:
-
-	pip install -r requirements.txt
-
-2 . Run the script:
-
-	python main.py
-
 📊 Results
 
 Test Accuracy: ~96.5%
